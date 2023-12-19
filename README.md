@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">📚I'm a Software Development Engineer student. My current focus lies in web development and I'm particulary interested in delving into the realm of Artificial Intelligence.<br><br>🎯Committed to continuous learning and excited obout the prospect of tech's future.</p>
+<p align="center">📚I'm a Software Development Engineer student. My current focus lies in web development and I'm particulary interested in delving into the realm of Artificial Intelligence.<br><br>🎯Committed to continuous learning and excited obout tech's future prospect.</p>
 
 ###
 
