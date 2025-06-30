@@ -10,9 +10,6 @@
 
 ###
 
-<img src="" height="24" alt="css3 logo"  />
-  <img width="12" />
-
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="24" alt="javascript logo"  />
   <img width="12" />
@@ -43,6 +40,8 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="24" alt="vscode logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="24" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SERVICENOW-E34F26?logo=servicenow&color=green&style=for-the-badge" height="24" alt="androidstudio logo"  />
 </div>
 
 ###
